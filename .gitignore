@@ -1,0 +1,15 @@
+# Vim session files
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+~*
+
+# Local backup files
+*.bkp
+*.bak
+
+# Vim-Plug specific files
+plugged/**
+tags/** 
+# Had local UVM tags
