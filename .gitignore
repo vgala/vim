@@ -8,9 +8,11 @@ Session.vim
 # Local backup files
 *.bkp
 *.bak
+*.swo
+*.swp
+*.swn
 
 # Vim-Plug specific files
 plugged/**
 tags/** 
-swap/**
 # Had local UVM tags
